@@ -35,7 +35,7 @@ A modern React application that displays Apple Inc.'s financial data in an inter
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/kartik-01/apple-financial-dashboard.git
+git clone https://github.com/kartik-01/financial-data-app.git
 ```
 
 2. Install dependencies:
